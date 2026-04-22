@@ -1,0 +1,3 @@
+scenario,strategy,total_evacuees,evacuated,stuck,average_time,completion_step
+normal,dp,10,10,0,7.44,5
+multi_zone_disaster,dp,10,10,0,6.84,5

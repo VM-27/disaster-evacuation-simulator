@@ -1,0 +1,20 @@
+{
+    "scenario": "normal",
+    "strategy": "dp",
+    "metrics": {
+        "total_evacuees": 10,
+        "evacuated": 10,
+        "stuck": 0,
+        "average_evacuation_time": 7.44,
+        "completion_step": 5,
+        "active_shelters": [
+            "Main_Gate",
+            "Shelter_2"
+        ],
+        "category_counts": {
+            "student": 7,
+            "injured": 2,
+            "staff": 1
+        }
+    }
+}

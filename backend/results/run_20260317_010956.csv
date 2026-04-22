@@ -1,0 +1,2 @@
+scenario,strategy,total_evacuees,evacuated,stuck,average_time,completion_step
+normal,dp,10,10,0,7.68,5
