@@ -1,3 +1,12 @@
 scenario,strategy,total_evacuees,evacuated,stuck,average_time,completion_step
 normal,dp,10,10,0,7.44,5
 multi_zone_disaster,dp,10,10,0,6.84,5
+normal,dp,10,10,0,8.16,5
+normal,shortest,10,10,0,6.6,3
+normal,greedy,10,10,0,6.48,5
+normal,greedy,10,10,0,6.96,5
+normal,greedy,10,10,0,7.56,5
+multi_zone_disaster,greedy,10,10,0,8.04,5
+shelter_failure,greedy,10,10,0,11.0,6
+night_evacuation,greedy,10,10,0,10.8,5
+normal,dp,10,10,0,7.68,5
